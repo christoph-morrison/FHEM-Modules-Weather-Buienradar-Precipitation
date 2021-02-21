@@ -1,0 +1,11 @@
+-I lib
+-r
+-v
+-c
+-f
+-t
+-w
+--timer
+--formatter TAP::Formatter::Console
+-j1
+-e 'perl -Ilib/ -I/Volumes/Development/hab/FHEM/Subversion -I/Volumes/Development/hab/FHEM/Subversion/FHEM '

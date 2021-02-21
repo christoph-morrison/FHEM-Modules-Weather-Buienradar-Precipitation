@@ -1,0 +1,1716 @@
+INFO - Mock started
+INFO - Mock started
+INFO - Mock started
+INFO - HASH(0x7fd5dc9c5e08)
+INFO - Mock started
+INFO - $VAR1 = \{
+            'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+            'log_level' => 1,
+            'device_name' => undef
+          };
+
+INFO - Mock started
+INFO - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'device_name' => undef
+        };
+
+INFO - Mock started
+INFO - Mock started
+INFO - $VAR1 = 'Log3';
+$VAR2 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1
+        };
+
+INFO - Mock started
+INFO - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+
+INFO - Mock started
+INFO - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1
+        };
+
+[0] lib/Mock.pm 12 main - Mock started
+[8] lib/Mock.pm 34 main - $VAR1 = {
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3',
+          'device_name' => undef
+        };
+[0] 2021/02/19 14:25:04 lib/Mock.pm 12 main - Mock started
+[7] 2021/02/19 14:25:04 lib/Mock.pm 34 main - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef
+        };
+Mock started
+$VAR1 = {
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef
+        };
+[0] 2021/02/19 14:30:20 lib/Mock.pm 12 main - Mock started
+[9] 2021/02/19 14:30:20 lib/Mock.pm 34 main - $VAR1 = {
+          'device_name' => undef,
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1
+        };
+[0] 2021/02/19 14:30:52 lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 14:31:24 lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 14:32:31 lib/Mock.pm 12 main - Mock started
+[1] 2021/02/19 14:32:40 lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 14:32:54 lib/Mock.pm 12 main - Mock started
+[28] 2021/02/19 14:32:54 lib/Mock.pm 34 main - $VAR1 = {
+          'log_level' => 1,
+          'device_name' => undef,
+          'mocked_function' => 'Log3',
+          'message' => 'Foo::Bar is not installed. Can\'t initialize FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[0] 2021/02/19 14:33:14 lib/Mock.pm 12 main - Mock started
+[27] 2021/02/19 14:33:14 lib/Mock.pm 34 main - $VAR1 = {
+          'log_level' => 1,
+          'message' => 'Foo::Bar is not installed. Can\'t initialize FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 14:34:35 lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 14:35:09 lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 14:35:15 lib/Mock.pm 12 main - Mock started
+[28] 2021/02/19 14:35:15 lib/Mock.pm 34 main - $VAR1 = {
+          'log_level' => 1,
+          'message' => 'Foo::Bar is not installed. Can\'t initialize FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3',
+          'device_name' => undef
+        };
+[0] 2021/02/19 14:36:19 lib/Mock.pm 12 main - Mock started
+[28] 2021/02/19 14:36:19 lib/Mock.pm 34 main - $VAR1 = {
+          'device_name' => undef,
+          'message' => 'Foo::Bar is not installed. Can\'t initialize FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'mocked_function' => 'Log3'
+        };
+[1] 2021/02/19 14:37:10 lib/Mock.pm 12 main - Mock started
+[1] 2021/02/19 14:37:52 lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 14:39:54 lib/Mock.pm 12 main - Mock started
+[7] 2021/02/19 14:39:54 lib/Mock.pm 34 main - $VAR1 = {
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 14:40:09 lib/Mock.pm 12 main - Mock started
+[25] 2021/02/19 14:40:09 lib/Mock.pm 34 main - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'device_name' => undef
+        };
+[0] 2021/02/19 15:01:41 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[1] 2021/02/19 15:01:41 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[0] 2021/02/19 15:01:41 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:01:41 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1
+        };
+[0] 2021/02/19 15:02:05 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:02:05 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1
+        };
+[0] 2021/02/19 15:02:06 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[1] 2021/02/19 15:02:06 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'log_level' => 1,
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 15:02:53 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:02:53 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1
+        };
+[0] 2021/02/19 15:02:53 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:02:53 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 15:03:22 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:03:22 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1,
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 15:03:23 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:03:23 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[0] 2021/02/19 15:04:17 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:04:17 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 15:04:17 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:04:17 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3',
+          'device_name' => undef
+        };
+[0] 2021/02/19 15:05:26 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:05:26 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1
+        };
+[0] 2021/02/19 15:05:26 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:05:26 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'log_level' => 1,
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 15:05:55 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:05:55 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'log_level' => 1,
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 15:05:55 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:05:55 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1,
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 15:06:07 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:06:07 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'mocked_function' => 'Log3',
+          'device_name' => undef
+        };
+[0] 2021/02/19 15:06:08 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 12 main - Mock started
+[0] 2021/02/19 15:06:08 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/Mock.pm 34 main - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[1] 2021/02/19 16:10:14 lib/FHEM/Mock.pm 12 main - Mock started
+[93] 2021/02/19 16:10:14 lib/FHEM/Mock.pm 34 main - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[1] 2021/02/19 16:10:14 lib/FHEM/Mock.pm 12 main - Mock started
+[88] 2021/02/19 16:10:14 lib/FHEM/Mock.pm 34 main - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'device_name' => undef,
+          'mocked_function' => 'Log3'
+        };
+[1] 2021/02/19 16:10:14 lib/FHEM/Mock.pm 12 main - Mock started
+[0] 2021/02/19 16:10:15 lib/FHEM/Mock.pm 12 main - Mock started
+[1] 2021/02/19 16:10:29 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[94] 2021/02/19 16:10:30 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef
+        };
+[0] 2021/02/19 16:10:30 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[82] 2021/02/19 16:10:30 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3',
+          'device_name' => undef
+        };
+[1] 2021/02/19 16:10:30 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:10:30 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:10:53 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[90] 2021/02/19 16:10:53 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef
+        };
+[0] 2021/02/19 16:10:53 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[83] 2021/02/19 16:10:54 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[0] 2021/02/19 16:10:54 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:10:54 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:11:13 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:11:13 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[79] 2021/02/19 16:11:13 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'mocked_function' => 'Log3'
+        };
+[1] 2021/02/19 16:11:13 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:11:13 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:11:46 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:11:46 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[83] 2021/02/19 16:11:46 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1,
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 16:11:47 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:11:47 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:12:38 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:12:38 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[81] 2021/02/19 16:12:38 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'device_name' => undef,
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 16:12:38 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/19 16:12:38 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[2] 2021/02/19 16:12:59 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[100] 2021/02/19 16:13:00 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef
+        };
+[0] 2021/02/19 16:13:00 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[79] 2021/02/19 16:13:00 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'log_level' => 1,
+          'device_name' => undef,
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[0] 2021/02/19 16:13:00 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:13:00 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/19 16:13:11 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[99] 2021/02/19 16:13:11 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'device_name' => undef,
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 16:13:11 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[80] 2021/02/19 16:13:11 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'device_name' => undef,
+          'log_level' => 1,
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[0] 2021/02/19 16:13:11 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/19 16:13:12 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:13:51 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/19 16:13:51 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[89] 2021/02/19 16:13:51 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1
+        };
+[0] 2021/02/19 16:13:51 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:13:52 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:14:01 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[91] 2021/02/19 16:14:01 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3',
+          'log_level' => 1
+        };
+[0] 2021/02/19 16:14:01 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[84] 2021/02/19 16:14:01 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef
+        };
+[0] 2021/02/19 16:14:01 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:14:01 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/19 16:58:16 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[110] 2021/02/19 16:58:16 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'log_level' => 1,
+          'device_name' => undef,
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[0] 2021/02/19 16:58:16 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[80] 2021/02/19 16:58:16 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'device_name' => undef,
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/19 16:58:16 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/19 16:58:17 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 10:07:04 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[334] 2021/02/20 10:07:05 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'log_level' => 1,
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef
+        };
+[1] 2021/02/20 10:07:05 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[128] 2021/02/20 10:07:05 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'mocked_function' => 'Log3',
+          'log_level' => 1
+        };
+[0] 2021/02/20 10:07:05 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:07:05 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 10:08:51 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[111] 2021/02/20 10:08:51 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[1] 2021/02/20 10:08:51 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:08:51 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:08:51 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:27:21 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[273] 2021/02/20 10:27:21 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'device_name' => undef,
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3'
+        };
+[1] 2021/02/20 10:27:21 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:27:21 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:27:21 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:27:36 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[103] 2021/02/20 10:27:36 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[0] 2021/02/20 10:27:36 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[113] 2021/02/20 10:27:36 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'device_name' => undef,
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/20 10:27:36 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:27:36 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:27:54 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[121] 2021/02/20 10:27:55 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1,
+          'mocked_function' => 'Log3'
+        };
+[0] 2021/02/20 10:27:55 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[148] 2021/02/20 10:27:55 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'device_name' => undef,
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[1] 2021/02/20 10:27:55 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:27:55 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:28:25 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[113] 2021/02/20 10:28:25 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1
+        };
+[1] 2021/02/20 10:28:25 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[116] 2021/02/20 10:28:25 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'mocked_function' => 'Log3'
+        };
+[1] 2021/02/20 10:28:25 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 10:28:26 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:28:56 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[107] 2021/02/20 10:28:56 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'device_name' => undef,
+          'log_level' => 1,
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[0] 2021/02/20 10:28:56 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[56] 2021/02/20 10:28:56 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'device_name' => undef,
+          'log_level' => 1,
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[1] 2021/02/20 10:28:56 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:28:57 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 10:29:06 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[115] 2021/02/20 10:29:06 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'device_name' => undef
+        };
+[1] 2021/02/20 10:29:06 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[47] 2021/02/20 10:29:06 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3',
+          'device_name' => undef
+        };
+[1] 2021/02/20 10:29:06 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:29:06 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:29:41 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[136] 2021/02/20 10:29:41 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'log_level' => 1
+        };
+[1] 2021/02/20 10:29:41 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[61] 2021/02/20 10:29:41 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'mocked_function' => 'Log3'
+        };
+[1] 2021/02/20 10:29:42 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:29:42 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:29:55 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[108] 2021/02/20 10:29:55 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3',
+          'log_level' => 1
+        };
+[1] 2021/02/20 10:29:55 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[47] 2021/02/20 10:29:55 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[1] 2021/02/20 10:29:55 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 10:29:55 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:30:11 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[115] 2021/02/20 10:30:11 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'device_name' => undef,
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[0] 2021/02/20 10:30:11 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[57] 2021/02/20 10:30:11 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1,
+          'mocked_function' => 'Log3'
+        };
+[1] 2021/02/20 10:30:11 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 10:30:12 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:30:22 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[136] 2021/02/20 10:30:22 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[0] 2021/02/20 10:30:22 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[51] 2021/02/20 10:30:22 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'log_level' => 1,
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'mocked_function' => 'Log3'
+        };
+[1] 2021/02/20 10:30:22 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:30:22 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:30:58 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[103] 2021/02/20 10:30:58 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef
+        };
+[0] 2021/02/20 10:30:58 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:30:58 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:30:58 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:31:09 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[113] 2021/02/20 10:31:09 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'log_level' => 1,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[1] 2021/02/20 10:31:09 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[52] 2021/02/20 10:31:10 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1
+        };
+[1] 2021/02/20 10:31:10 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 10:31:10 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:31:22 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[128] 2021/02/20 10:31:22 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1
+        };
+[0] 2021/02/20 10:31:22 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[50] 2021/02/20 10:31:22 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1
+        };
+[0] 2021/02/20 10:31:22 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 10:31:23 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:32:13 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[10] 2021/02/20 10:32:13 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'log_level' => 1,
+          'device_name' => undef,
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[1] 2021/02/20 10:32:52 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[10] 2021/02/20 10:32:52 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'log_level' => 1
+        };
+[1] 2021/02/20 10:33:45 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[10] 2021/02/20 10:33:45 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'log_level' => 1,
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation'
+        };
+[0] 2021/02/20 10:33:47 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[8] 2021/02/20 10:33:47 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'device_name' => undef,
+          'mocked_function' => 'Log3',
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1
+        };
+[0] 2021/02/20 10:34:01 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[9] 2021/02/20 10:34:01 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'message' => 'Please install Module::Load::Conditional for FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'device_name' => undef,
+          'mocked_function' => 'Log3'
+        };
+[1] 2021/02/20 10:34:10 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[107] 2021/02/20 10:34:10 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'message' => 'FHEM::Meta is not installed. Can\'t initialize FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'mocked_function' => 'Log3',
+          'device_name' => undef
+        };
+[1] 2021/02/20 10:35:34 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 10:39:19 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:41:38 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:42:44 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:43:09 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:43:29 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[2] 2021/02/20 11:45:04 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:46:11 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[2] 2021/02/20 11:46:31 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[255] 2021/02/20 11:46:31 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'device_name' => undef,
+          'message' => 'Not::Existing is not installed. Can\'t initialize FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1
+        };
+[2] 2021/02/20 11:49:22 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[3] 2021/02/20 11:49:31 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[2] 2021/02/20 11:50:32 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[194] 2021/02/20 11:50:32 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'version' => bless( {
+                                  'original' => '1.004003',
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ]
+                                }, 'version' )
+          };
+[199] 2021/02/20 11:50:32 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ],
+                                  'original' => '1.32'
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm',
+            'uptodate' => 1
+          };
+[204] 2021/02/20 11:50:32 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm',
+            'version' => bless( {
+                                  'original' => '4.19',
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ]
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level'
+          };
+[208] 2021/02/20 11:50:32 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ],
+                                  'original' => '2.05'
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm',
+            'uptodate' => 1
+          };
+[219] 2021/02/20 11:50:32 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 0
+                                               ],
+                                  'original' => '0'
+                                }, 'version' ),
+            'dir' => '/Volumes/Development/hab/FHEM/Subversion',
+            'file' => '/Volumes/Development/hab/FHEM/Subversion/FHEM/Meta.pm',
+            'uptodate' => 1
+          };
+[221] 2021/02/20 11:50:32 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'file' => '/Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation/Data.pm',
+            'version' => bless( {
+                                  'qv' => 1,
+                                  'version' => [
+                                                 1,
+                                                 0,
+                                                 0
+                                               ],
+                                  'original' => 'v1.0.0'
+                                }, 'version' ),
+            'dir' => '/Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib',
+            'uptodate' => 1
+          };
+[2] 2021/02/20 11:55:04 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[231] 2021/02/20 11:55:05 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'original' => '1.004003',
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ]
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm',
+            'uptodate' => 1,
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[235] 2021/02/20 11:55:05 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm',
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ],
+                                  'original' => '1.32'
+                                }, 'version' ),
+            'uptodate' => 1,
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[240] 2021/02/20 11:55:05 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ],
+                                  'original' => '4.19'
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level',
+            'uptodate' => 1
+          };
+[243] 2021/02/20 11:55:05 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm',
+            'version' => bless( {
+                                  'original' => '2.05',
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ]
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'uptodate' => 1
+          };
+[254] 2021/02/20 11:55:05 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 0
+                                               ],
+                                  'original' => '0'
+                                }, 'version' ),
+            'file' => '/Volumes/Development/hab/FHEM/Subversion/FHEM/Meta.pm',
+            'dir' => '/Volumes/Development/hab/FHEM/Subversion',
+            'uptodate' => 1
+          };
+[257] 2021/02/20 11:55:05 /Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib',
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'original' => 'v1.0.0',
+                                  'qv' => 1,
+                                  'version' => [
+                                                 1,
+                                                 0,
+                                                 0
+                                               ]
+                                }, 'version' ),
+            'file' => '/Volumes/Development/hab/FHEM/Module/FHEM-Modules-Weather-Buienradar-Precipitation/lib/FHEM/Modules/Weather/Buienradar/Precipitation/Data.pm'
+          };
+[1] 2021/02/20 11:55:58 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[303] 2021/02/20 11:55:58 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm',
+            'version' => bless( {
+                                  'original' => '1.004003',
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ]
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[305] 2021/02/20 11:55:58 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'original' => '1.32',
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ]
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'uptodate' => 1
+          };
+[309] 2021/02/20 11:55:58 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm',
+            'version' => bless( {
+                                  'original' => '4.19',
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ]
+                                }, 'version' ),
+            'uptodate' => 1
+          };
+[311] 2021/02/20 11:55:58 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm',
+            'version' => bless( {
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ],
+                                  'original' => '2.05'
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[311] 2021/02/20 11:55:58 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'mocked_function' => 'Log3',
+          'message' => 'FHEM::Meta is not installed. Can\'t initialize FHEM::Modules::Weather::Buienradar::Precipitation',
+          'log_level' => 1,
+          'device_name' => undef
+        };
+[1] 2021/02/20 11:55:58 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[188] 2021/02/20 11:55:58 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'version' => bless( {
+                                  'original' => '1.004003',
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ]
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm',
+            'uptodate' => 1
+          };
+[190] 2021/02/20 11:55:58 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'original' => '1.32',
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ]
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[193] 2021/02/20 11:55:58 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level',
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'original' => '4.19',
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ]
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm'
+          };
+[194] 2021/02/20 11:55:58 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm',
+            'version' => bless( {
+                                  'original' => '2.05',
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ]
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[194] 2021/02/20 11:55:58 lib/FHEM/Mock.pm 34 FHEM.Mock - $VAR1 = {
+          'log_level' => 1,
+          'message' => 'FHEM::Meta is not installed. Can\'t initialize FHEM::Modules::Weather::Buienradar::Precipitation',
+          'device_name' => undef,
+          'mocked_function' => 'Log3'
+        };
+[1] 2021/02/20 11:55:58 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:55:59 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:56:43 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[456] 2021/02/20 11:56:43 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ],
+                                  'original' => '1.004003'
+                                }, 'version' ),
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[459] 2021/02/20 11:56:43 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'original' => '1.32',
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ]
+                                }, 'version' ),
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[463] 2021/02/20 11:56:43 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm',
+            'version' => bless( {
+                                  'original' => '4.19',
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ]
+                                }, 'version' )
+          };
+[466] 2021/02/20 11:56:43 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'version' => bless( {
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ],
+                                  'original' => '2.05'
+                                }, 'version' )
+          };
+[477] 2021/02/20 11:56:43 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'original' => '0',
+                                  'version' => [
+                                                 0
+                                               ]
+                                }, 'version' ),
+            'uptodate' => 1,
+            'file' => '/Volumes/Development/hab/FHEM/Subversion/FHEM/Meta.pm',
+            'dir' => '/Volumes/Development/hab/FHEM/Subversion'
+          };
+[480] 2021/02/20 11:56:43 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'dir' => 'lib/',
+            'file' => 'lib/FHEM/Modules/Weather/Buienradar/Precipitation/Data.pm',
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 0,
+                                                 0
+                                               ],
+                                  'original' => 'v1.0.0',
+                                  'qv' => 1
+                                }, 'version' )
+          };
+[1] 2021/02/20 11:56:44 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[240] 2021/02/20 11:56:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ],
+                                  'original' => '1.004003'
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[244] 2021/02/20 11:56:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'original' => '1.32',
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ]
+                                }, 'version' ),
+            'uptodate' => 1,
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm'
+          };
+[251] 2021/02/20 11:56:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level',
+            'version' => bless( {
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ],
+                                  'original' => '4.19'
+                                }, 'version' ),
+            'uptodate' => 1
+          };
+[256] 2021/02/20 11:56:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ],
+                                  'original' => '2.05'
+                                }, 'version' )
+          };
+[267] 2021/02/20 11:56:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 0
+                                               ],
+                                  'original' => '0'
+                                }, 'version' ),
+            'uptodate' => 1,
+            'dir' => '/Volumes/Development/hab/FHEM/Subversion',
+            'file' => '/Volumes/Development/hab/FHEM/Subversion/FHEM/Meta.pm'
+          };
+[269] 2021/02/20 11:56:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => 'lib/',
+            'file' => 'lib/FHEM/Modules/Weather/Buienradar/Precipitation/Data.pm',
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 0,
+                                                 0
+                                               ],
+                                  'original' => 'v1.0.0',
+                                  'qv' => 1
+                                }, 'version' ),
+            'uptodate' => 1
+          };
+[2] 2021/02/20 11:56:44 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[6] 2021/02/20 11:56:45 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:57:14 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:57:14 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:57:15 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:57:15 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:57:43 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 11:57:43 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[3] 2021/02/20 11:57:44 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[2] 2021/02/20 11:57:44 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 12:01:03 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[2] 2021/02/20 12:01:04 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[2] 2021/02/20 12:01:04 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[2] 2021/02/20 12:01:04 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:14:36 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:14:36 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:14:37 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:15:03 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:15:03 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:15:03 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:15:22 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[83] 2021/02/20 12:15:22 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm',
+            'version' => bless( {
+                                  'original' => '1.004003',
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ]
+                                }, 'version' ),
+            'uptodate' => 1
+          };
+[85] 2021/02/20 12:15:22 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm',
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'original' => '1.32',
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ]
+                                }, 'version' )
+          };
+[89] 2021/02/20 12:15:22 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm',
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'original' => '4.19',
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ]
+                                }, 'version' )
+          };
+[91] 2021/02/20 12:15:22 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm',
+            'version' => bless( {
+                                  'original' => '2.05',
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ]
+                                }, 'version' ),
+            'uptodate' => 1
+          };
+[97] 2021/02/20 12:15:22 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'original' => '0',
+                                  'version' => [
+                                                 0
+                                               ]
+                                }, 'version' ),
+            'uptodate' => 1,
+            'file' => '/Volumes/Development/hab/FHEM/Subversion/FHEM/Meta.pm',
+            'dir' => '/Volumes/Development/hab/FHEM/Subversion'
+          };
+[99] 2021/02/20 12:15:22 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => 'lib/',
+            'version' => bless( {
+                                  'original' => 'v1.0.0',
+                                  'qv' => 1,
+                                  'version' => [
+                                                 1,
+                                                 0,
+                                                 0
+                                               ]
+                                }, 'version' ),
+            'uptodate' => 1,
+            'file' => 'lib/FHEM/Modules/Weather/Buienradar/Precipitation/Data.pm'
+          };
+[0] 2021/02/20 12:15:22 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:15:23 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:15:44 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[56] 2021/02/20 12:15:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ],
+                                  'original' => '1.004003'
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm',
+            'uptodate' => 1,
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[58] 2021/02/20 12:15:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm',
+            'version' => bless( {
+                                  'original' => '1.32',
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ]
+                                }, 'version' )
+          };
+[60] 2021/02/20 12:15:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm',
+            'version' => bless( {
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ],
+                                  'original' => '4.19'
+                                }, 'version' ),
+            'uptodate' => 1,
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level'
+          };
+[62] 2021/02/20 12:15:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm',
+            'version' => bless( {
+                                  'original' => '2.05',
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ]
+                                }, 'version' )
+          };
+[67] 2021/02/20 12:15:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/Volumes/Development/hab/FHEM/Subversion',
+            'uptodate' => 1,
+            'file' => '/Volumes/Development/hab/FHEM/Subversion/FHEM/Meta.pm',
+            'version' => bless( {
+                                  'original' => '0',
+                                  'version' => [
+                                                 0
+                                               ]
+                                }, 'version' )
+          };
+[69] 2021/02/20 12:15:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'file' => 'lib/FHEM/Modules/Weather/Buienradar/Precipitation/Data.pm',
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 0,
+                                                 0
+                                               ],
+                                  'qv' => 1,
+                                  'original' => 'v1.0.0'
+                                }, 'version' ),
+            'dir' => 'lib/',
+            'uptodate' => 1
+          };
+[0] 2021/02/20 12:15:45 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[1] 2021/02/20 12:15:45 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:16:00 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[61] 2021/02/20 12:16:00 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ],
+                                  'original' => '1.004003'
+                                }, 'version' ),
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[63] 2021/02/20 12:16:00 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'original' => '1.32',
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ]
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm'
+          };
+[66] 2021/02/20 12:16:00 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ],
+                                  'original' => '4.19'
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level'
+          };
+[67] 2021/02/20 12:16:00 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'original' => '2.05',
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ]
+                                }, 'version' ),
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm',
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[73] 2021/02/20 12:16:00 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'original' => '0',
+                                  'version' => [
+                                                 0
+                                               ]
+                                }, 'version' ),
+            'file' => '/Volumes/Development/hab/FHEM/Subversion/FHEM/Meta.pm',
+            'dir' => '/Volumes/Development/hab/FHEM/Subversion'
+          };
+[74] 2021/02/20 12:16:00 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => 'lib/',
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'qv' => 1,
+                                  'original' => 'v1.0.0',
+                                  'version' => [
+                                                 1,
+                                                 0,
+                                                 0
+                                               ]
+                                }, 'version' ),
+            'file' => 'lib/FHEM/Modules/Weather/Buienradar/Precipitation/Data.pm'
+          };
+[0] 2021/02/20 12:16:01 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:16:01 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:18:44 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[75] 2021/02/20 12:18:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'original' => '1.004003',
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ]
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm'
+          };
+[77] 2021/02/20 12:18:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm',
+            'version' => bless( {
+                                  'original' => '1.32',
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ]
+                                }, 'version' )
+          };
+[80] 2021/02/20 12:18:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level',
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'original' => '4.19',
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ]
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm'
+          };
+[82] 2021/02/20 12:18:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm',
+            'version' => bless( {
+                                  'original' => '2.05',
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ]
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[88] 2021/02/20 12:18:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'original' => '0',
+                                  'version' => [
+                                                 0
+                                               ]
+                                }, 'version' ),
+            'file' => '/Volumes/Development/hab/FHEM/Subversion/FHEM/Meta.pm',
+            'uptodate' => 1,
+            'dir' => '/Volumes/Development/hab/FHEM/Subversion'
+          };
+[89] 2021/02/20 12:18:44 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => 'lib/',
+            'file' => 'lib/FHEM/Modules/Weather/Buienradar/Precipitation/Data.pm',
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 0,
+                                                 0
+                                               ],
+                                  'qv' => 1,
+                                  'original' => 'v1.0.0'
+                                }, 'version' ),
+            'uptodate' => 1
+          };
+[0] 2021/02/20 12:18:44 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:18:45 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:19:31 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[63] 2021/02/20 12:19:31 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ],
+                                  'original' => '1.004003'
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm'
+          };
+[65] 2021/02/20 12:19:31 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'original' => '1.32',
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ]
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm'
+          };
+[68] 2021/02/20 12:19:31 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ],
+                                  'original' => '4.19'
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level',
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm'
+          };
+[70] 2021/02/20 12:19:31 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm',
+            'uptodate' => 1,
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'version' => bless( {
+                                  'original' => '2.05',
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ]
+                                }, 'version' )
+          };
+[75] 2021/02/20 12:19:31 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'file' => '/Volumes/Development/hab/FHEM/Subversion/FHEM/Meta.pm',
+            'dir' => '/Volumes/Development/hab/FHEM/Subversion',
+            'version' => bless( {
+                                  'original' => '0',
+                                  'version' => [
+                                                 0
+                                               ]
+                                }, 'version' ),
+            'uptodate' => 1
+          };
+[76] 2021/02/20 12:19:31 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => 'lib/',
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 0,
+                                                 0
+                                               ],
+                                  'original' => 'v1.0.0',
+                                  'qv' => 1
+                                }, 'version' ),
+            'uptodate' => 1,
+            'file' => 'lib/FHEM/Modules/Weather/Buienradar/Precipitation/Data.pm'
+          };
+[0] 2021/02/20 12:19:31 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:19:32 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:20:06 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[58] 2021/02/20 12:20:06 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm',
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'original' => '1.004003',
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ]
+                                }, 'version' )
+          };
+[60] 2021/02/20 12:20:06 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ],
+                                  'original' => '1.32'
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm'
+          };
+[63] 2021/02/20 12:20:06 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'version' => bless( {
+                                  'original' => '4.19',
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ]
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm'
+          };
+[65] 2021/02/20 12:20:06 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ],
+                                  'original' => '2.05'
+                                }, 'version' ),
+            'uptodate' => 1,
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm'
+          };
+[69] 2021/02/20 12:20:06 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'file' => '/Volumes/Development/hab/FHEM/Subversion/FHEM/Meta.pm',
+            'dir' => '/Volumes/Development/hab/FHEM/Subversion',
+            'version' => bless( {
+                                  'original' => '0',
+                                  'version' => [
+                                                 0
+                                               ]
+                                }, 'version' ),
+            'uptodate' => 1
+          };
+[70] 2021/02/20 12:20:06 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'file' => 'lib/FHEM/Modules/Weather/Buienradar/Precipitation/Data.pm',
+            'dir' => 'lib/',
+            'version' => bless( {
+                                  'qv' => 1,
+                                  'version' => [
+                                                 1,
+                                                 0,
+                                                 0
+                                               ],
+                                  'original' => 'v1.0.0'
+                                }, 'version' ),
+            'uptodate' => 1
+          };
+[0] 2021/02/20 12:20:06 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:20:06 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:20:25 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[63] 2021/02/20 12:20:25 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ],
+                                  'original' => '1.004003'
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm',
+            'uptodate' => 1
+          };
+[65] 2021/02/20 12:20:25 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ],
+                                  'original' => '1.32'
+                                }, 'version' ),
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm'
+          };
+[68] 2021/02/20 12:20:25 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'original' => '4.19',
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ]
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm',
+            'uptodate' => 1
+          };
+[70] 2021/02/20 12:20:25 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'original' => '2.05',
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ]
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm',
+            'uptodate' => 1
+          };
+[75] 2021/02/20 12:20:25 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/Volumes/Development/hab/FHEM/Subversion',
+            'version' => bless( {
+                                  'version' => [
+                                                 0
+                                               ],
+                                  'original' => '0'
+                                }, 'version' ),
+            'uptodate' => 1,
+            'file' => '/Volumes/Development/hab/FHEM/Subversion/FHEM/Meta.pm'
+          };
+[76] 2021/02/20 12:20:25 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => 'lib/',
+            'version' => bless( {
+                                  'original' => 'v1.0.0',
+                                  'qv' => 1,
+                                  'version' => [
+                                                 1,
+                                                 0,
+                                                 0
+                                               ]
+                                }, 'version' ),
+            'uptodate' => 1,
+            'file' => 'lib/FHEM/Modules/Weather/Buienradar/Precipitation/Data.pm'
+          };
+[0] 2021/02/20 12:20:25 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 12:20:25 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 21:51:21 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[89] 2021/02/20 21:51:21 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 4,
+                                                 3
+                                               ],
+                                  'original' => '1.004003'
+                                }, 'version' ),
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/JSON/MaybeXS.pm',
+            'uptodate' => 1
+          };
+[90] 2021/02/20 21:51:21 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Locale/TextDomain.pm',
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 320
+                                               ],
+                                  'original' => '1.32'
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26'
+          };
+[91] 2021/02/20 21:51:21 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 4,
+                                                 190
+                                               ],
+                                  'original' => '4.19'
+                                }, 'version' ),
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level',
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/darwin-thread-multi-2level/Cpanel/JSON/XS.pm',
+            'uptodate' => 1
+          };
+[92] 2021/02/20 21:51:21 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'dir' => '/opt/local/lib/perl5/site_perl/5.26',
+            'version' => bless( {
+                                  'version' => [
+                                                 2,
+                                                 50
+                                               ],
+                                  'original' => '2.05'
+                                }, 'version' ),
+            'uptodate' => 1,
+            'file' => '/opt/local/lib/perl5/site_perl/5.26/Readonly.pm'
+          };
+[98] 2021/02/20 21:51:21 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'version' => bless( {
+                                  'version' => [
+                                                 0
+                                               ],
+                                  'original' => '0'
+                                }, 'version' ),
+            'dir' => '/Volumes/Development/hab/FHEM/Subversion',
+            'file' => '/Volumes/Development/hab/FHEM/Subversion/FHEM/Meta.pm',
+            'uptodate' => 1
+          };
+[98] 2021/02/20 21:51:21 lib/FHEM/Modules/Weather/Buienradar/Precipitation.pm 49 FHEM.Mock - $module = {
+            'file' => 'lib/FHEM/Modules/Weather/Buienradar/Precipitation/Data.pm',
+            'uptodate' => 1,
+            'dir' => 'lib/',
+            'version' => bless( {
+                                  'version' => [
+                                                 1,
+                                                 0,
+                                                 0
+                                               ],
+                                  'qv' => 1,
+                                  'original' => 'v1.0.0'
+                                }, 'version' )
+          };
+[0] 2021/02/20 21:51:21 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
+[0] 2021/02/20 21:51:22 lib/FHEM/Mock.pm 12 FHEM.Mock - Mock started
